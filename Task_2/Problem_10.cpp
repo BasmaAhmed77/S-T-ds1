@@ -3,6 +3,7 @@ public:
     int longestValidParentheses(string s) {
 
         int cnt = 0;
+        Queue <int> q;
         stack <char> stack;
         for (auto c : s)
         {
