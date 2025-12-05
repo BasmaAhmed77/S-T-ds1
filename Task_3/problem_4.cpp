@@ -1,4 +1,4 @@
-class Solution 
+class Solution
 {
 public:
 
@@ -23,4 +23,4 @@ public:
 		}
 		return time;
 	}
-}
+};
